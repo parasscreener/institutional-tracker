@@ -1,0 +1,4 @@
+scheme_code,scheme_name,amc_name,holdings_source_priority,amfi_disclosure_id,amc_holdings_url,amc_holdings_format
+119551,Sample Equity Fund A,Sample AMC,amfi,AMFI-SAMPLE-001,https://example.com/fund_a_holdings.csv,csv
+120503,Sample Equity Fund B,Sample AMC,amc,,https://example.com/fund_b_holdings.json,json
+118834,Sample Flexi Cap Fund,Another AMC,amc,,config/sample_holdings.csv,csv
