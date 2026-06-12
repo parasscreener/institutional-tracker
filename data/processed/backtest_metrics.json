@@ -1,16 +1,16 @@
 {
   "window_years": 15,
-  "as_of_date": "2026-06-10",
+  "as_of_date": "2026-06-11",
   "strategy": {
-    "CAGR": 0.131438,
-    "Sharpe": 1.006167,
+    "CAGR": 0.131328,
+    "Sharpe": 1.005556,
     "MDD": -0.239618,
-    "Sortino": 1.09808
+    "Sortino": 1.097456
   },
   "benchmark": {
     "name": "Nifty 50 TR Index",
-    "CAGR": 0.09187,
-    "Sharpe": 275.12113,
+    "CAGR": 0.091841,
+    "Sharpe": 263.408428,
     "MDD": 0.0,
     "Sortino": 0.0
   }
